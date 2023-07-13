@@ -1,0 +1,17 @@
+NPS API key (free, needed to fetch data): https://www.nps.gov/subjects/developer/get-started.htm
+
+
+imports:
+
+python-dotenv = to get environment variables (API key)
+csv = to read .csv and write to .csv files
+sys = to exit programme when conditions are not met
+requests = to fetch data from API
+json = to save API response as json file
+re = to match pattern in string
+Decimal = to format decimal numbers
+inquirer = to get user to select from list of options
+fpdf2 (FPDF, HTMLMixin) = to create and format PDF
+pandas = to create dataframes
+tabulate = to create output tables
+
